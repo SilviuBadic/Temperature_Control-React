@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](https://silviubadic.github.io/temperature_control/) to view it in your browser.
+Open [https://silviubadic.github.io/temperature_control/](https://silviubadic.github.io/temperature_control/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
