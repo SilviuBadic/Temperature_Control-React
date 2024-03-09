@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperature_control/static/css/main.89ee277e.css",
+    "main.js": "/temperature_control/static/js/main.d5e4c005.js",
+    "static/js/453.56aa4e18.chunk.js": "/temperature_control/static/js/453.56aa4e18.chunk.js",
+    "index.html": "/temperature_control/index.html",
+    "main.89ee277e.css.map": "/temperature_control/static/css/main.89ee277e.css.map",
+    "main.d5e4c005.js.map": "/temperature_control/static/js/main.d5e4c005.js.map",
+    "453.56aa4e18.chunk.js.map": "/temperature_control/static/js/453.56aa4e18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ee277e.css",
+    "static/js/main.d5e4c005.js"
+  ]
+}
