@@ -8,7 +8,7 @@ This is one of my first projects using REACT. It's a simple application built wi
 ## Demo
 
 You can check out the live version here:
-https://silviubadic.github.io/temperature_control/
+https://silviubadic.github.io/Temperature_Control-React/
 
 ## Screenshots
 <img width="1050" alt="v1" src="https://github.com/user-attachments/assets/4eaf1cdd-77d8-4992-8f19-22878f1c5d3a" />
