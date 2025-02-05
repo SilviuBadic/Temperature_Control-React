@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/Temperature_Control-React/static/css/main.e9d5d95e.css",
-    "main.js": "/Temperature_Control-React/static/js/main.585ca4d7.js",
-    "static/js/453.f53292f2.chunk.js": "/Temperature_Control-React/static/js/453.f53292f2.chunk.js",
+    "main.js": "/Temperature_Control-React/static/js/main.b5d515dd.js",
     "index.html": "/Temperature_Control-React/index.html",
     "main.e9d5d95e.css.map": "/Temperature_Control-React/static/css/main.e9d5d95e.css.map",
-    "main.585ca4d7.js.map": "/Temperature_Control-React/static/js/main.585ca4d7.js.map",
-    "453.f53292f2.chunk.js.map": "/Temperature_Control-React/static/js/453.f53292f2.chunk.js.map"
+    "main.b5d515dd.js.map": "/Temperature_Control-React/static/js/main.b5d515dd.js.map"
   },
   "entrypoints": [
     "static/css/main.e9d5d95e.css",
-    "static/js/main.585ca4d7.js"
+    "static/js/main.b5d515dd.js"
   ]
 }
