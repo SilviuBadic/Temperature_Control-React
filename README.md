@@ -11,7 +11,7 @@ You can check out the live version here:
 https://silviubadic.github.io/temperature_control/
 
 ## Screenshots
-<img width="1050" alt="v1" src="<img width="619" alt="https://github.com/user-attachments/assets/4eaf1cdd-77d8-4992-8f19-22878f1c5d3a" />
+<img width="1050" alt="v1" src="https://github.com/user-attachments/assets/4eaf1cdd-77d8-4992-8f19-22878f1c5d3a" />
 
 <br>
 <br>
