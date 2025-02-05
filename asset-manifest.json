@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/temperature_control/static/css/main.89ee277e.css",
-    "main.js": "/temperature_control/static/js/main.d5e4c005.js",
-    "static/js/453.56aa4e18.chunk.js": "/temperature_control/static/js/453.56aa4e18.chunk.js",
-    "index.html": "/temperature_control/index.html",
-    "main.89ee277e.css.map": "/temperature_control/static/css/main.89ee277e.css.map",
-    "main.d5e4c005.js.map": "/temperature_control/static/js/main.d5e4c005.js.map",
-    "453.56aa4e18.chunk.js.map": "/temperature_control/static/js/453.56aa4e18.chunk.js.map"
+    "main.css": "/Temperature_Control-React/static/css/main.e9d5d95e.css",
+    "main.js": "/Temperature_Control-React/static/js/main.585ca4d7.js",
+    "static/js/453.f53292f2.chunk.js": "/Temperature_Control-React/static/js/453.f53292f2.chunk.js",
+    "index.html": "/Temperature_Control-React/index.html",
+    "main.e9d5d95e.css.map": "/Temperature_Control-React/static/css/main.e9d5d95e.css.map",
+    "main.585ca4d7.js.map": "/Temperature_Control-React/static/js/main.585ca4d7.js.map",
+    "453.f53292f2.chunk.js.map": "/Temperature_Control-React/static/js/453.f53292f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89ee277e.css",
-    "static/js/main.d5e4c005.js"
+    "static/css/main.e9d5d95e.css",
+    "static/js/main.585ca4d7.js"
   ]
 }
