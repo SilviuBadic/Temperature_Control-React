@@ -40,17 +40,14 @@ https://github.com/user-attachments/assets/b6bb7921-2037-4a2d-b9fc-f9381bd03c66
 
 ## Features
 - Interactive buttons to increase or decrease the temperature 
-- One interactive button which let us send the text to our list;
-- Two interactive buttons which let us delete or mark the row as checked.
+- Background color chances dynamically based on user's choices.
+- Feedback provided dynamically if a certain degree is reached.
 
 ## Lessons Learned
-
-The main lesson was to understand how a component and JSX work, how to work with events in React, to call a function when a specific button is clicked, as well as organizing the components and applying the UseState hooks. 
-
-I've learned how props work and how to implement them in our code.
+First of all, DOM Manipulation, event handling and dynamic styling are some lessons learned while creating this app. Also the use of State.
 ## Optimizations
 
-It was a good starting point to understand some of the main concepts of REACT, to make my application more composable, by combining a few parts and make a whole.
+It was pretty simple app in which I've practiced a bit about the things I've spoken earlier.
 
 
 
