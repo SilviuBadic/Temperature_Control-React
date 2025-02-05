@@ -15,7 +15,7 @@ https://silviubadic.github.io/temperature_control/
 
 <br>
 <br>
-<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/1bb71b42-063a-412f-bae0-c4c84fdca56e" />
+<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/1f006a48-8fb1-4d25-8899-bdd78d82f0e3" />
 
 
 <br>
