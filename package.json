@@ -1,6 +1,6 @@
 {
-  "name": "exercises",
-  "homepage" : "https://SilviuBadic.github.io/temperature_control/",
+  "name": "temperature",
+  "homepage" : "https://SilviuBadic.github.io/Temperature_Control-React/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
